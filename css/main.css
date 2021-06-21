@@ -1,0 +1,14 @@
+h1{font-size: Black 900;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-family: 'Viaoda Libre', cursive;
+    padding-left: 550px;
+}
+.ada { width: 100%;
+    border-radius: 100%; display: flex;
+    flex-direction: center;
+padding-left: 550px;
+}
+
+.c:hover{color:red; }
+.b:hover{color:red;}
+.a:hover{color:red;}
